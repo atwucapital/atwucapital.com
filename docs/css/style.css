@@ -8,6 +8,11 @@ body{
     font-family: 'Playfair Display', serif;
 }
 
+.text-handwritten{
+  font-family: "Handlee", cursive;
+  font-style: normal;
+}
+
 .bg-dark-green{
     background-color: #031b1d;
 }
