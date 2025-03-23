@@ -1,7 +1,8 @@
 body{
     font-family: 'Noto Sans', sans-serif;
     background-color: #f1f2ef;
-
+    width:100vw;
+    overflow-x:hidden;
 }
 
 .text-serif {
