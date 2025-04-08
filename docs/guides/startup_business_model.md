@@ -44,13 +44,13 @@ When presenting your acquisition strategy, focus on demonstrating scalability. S
 
 **Good Example:**
 
-"Our Instagram ads deliver customers at $50 CAC, versus $150 through Google Ads. We've grown from 100 to 1,000 customers in 3 months through this channel, with conversion rates improving monthly."
+> "Our Instagram ads deliver customers at $50 CAC, versus $150 through Google Ads. We've grown from 100 to 1,000 customers in 3 months through this channel, with conversion rates improving monthly."
 
 **Bad Example:**
 
-"We'll go viral on social media and get millions of users."
+> "We'll go viral on social media and get millions of users."
 
-**Questions you must be able to answer:**
+#### Questions you must be able to answer:
 
 1. What's your current customer acquisition cost (CAC), and how do you expect it to evolve?
 2. Which marketing channels have proven most effective so far?
@@ -83,13 +83,13 @@ Beyond just stating your revenue streams, demonstrate their sustainability and g
 
 **Good Example:**
 
-"80% of revenue comes from $50/month subscriptions, with 15% from premium features and 5% from consulting. Our gross margin is 75%."
+> "80% of revenue comes from $50/month subscriptions, with 15% from premium features and 5% from consulting. Our gross margin is 75%."
 
 **Bad Example:**
 
-"We'll figure out monetization once we have users."
+> "We'll figure out monetization once we have users."
 
-**Questions you must be able to answer:**
+#### Questions you must be able to answer:
 1. What's your current revenue mix between different products/services?
 2. How predictable is your revenue?
 3. What's your pricing strategy and how did you determine it?
@@ -121,13 +121,13 @@ Your growth mechanics should show clear flywheel effects - how each satisfied cu
 
 **Good Example:**
 
-"70% of customers remain active after 6 months. Each customer refers 1.5 new users, creating organic growth."
+> "70% of customers remain active after 6 months. Each customer refers 1.5 new users, creating organic growth."
 
 **Bad Example:**
 
-"Our product is so good, customers won't want to leave."
+> "Our product is so good, customers won't want to leave."
 
-**Questions you must be able to answer:**
+#### Questions you must be able to answer:
 1. What's your current churn rate?
 2. What's your customer lifetime value (LTV)?
 3. What's your customer retention strategy?
@@ -159,13 +159,13 @@ A critical metric to highlight is your payback period - how quickly you recover 
 
 **Good Example:**
 
-"Our LTV:CAC ratio is 4:1 ($1,200 LTV/$300 CAC). We recover acquisition costs in 2.5 months, with 85% gross margins."
+> "Our LTV:CAC ratio is 4:1 ($1,200 LTV/$300 CAC). We recover acquisition costs in 2.5 months, with 85% gross margins."
 
 **Bad Example:**
 
-"We'll make it up in volume."
+> "We'll make it up in volume."
 
-**Questions you must be able to answer:**
+#### Questions you must be able to answer:
 1. What's your gross margin per unit/customer?
 2. How does your LTV/CAC ratio compare to industry standards?
 3. What's your payback period?
@@ -192,13 +192,13 @@ This section should show that you're not just optimistic about your business's p
 
 **Good Example:**
 
-"We've identified three key risks: supply chain disruption, regulatory changes, and competition. Here's how we're addressing each..."
+> "We've identified three key risks: supply chain disruption, regulatory changes, and competition. Here's how we're addressing each..."
 
 **Bad Example:**
 
-"We don't see any significant risks to our business."
+> "We don't see any significant risks to our business."
 
-**Questions you must be able to answer:**
+#### Questions you must be able to answer:
 1. What are your biggest operational risks?
 2. How dependent are you on key suppliers/partners?
 3. What regulatory risks affect your business?
@@ -228,13 +228,13 @@ Present a detailed competitive landscape analysis, showing where you fit in the 
 
 **Good Example:**
 
-"Our proprietary AI reduces customer service costs by 30%. High switching costs and network effects create lasting advantages."
+> "Our proprietary AI reduces customer service costs by 30%. High switching costs and network effects create lasting advantages."
 
 **Bad Example:**
 
-"We have no real competitors."
+> "We have no real competitors."
 
-**Questions you must be able to answer:**
+#### Questions you must be able to answer:
 1. Who are your main competitors and how do you differentiate?
 2. What barriers to entry protect your business?
 3. How sustainable is your competitive advantage?
@@ -244,7 +244,6 @@ Present a detailed competitive landscape analysis, showing where you fit in the 
 7. How hard would it be for customers to switch to competitors?
 8. What's your moat strategy as you scale?
 
-## 
 
 After all, we as investors want to understand a few things, before we hand you our hard-earned money:
 
@@ -271,4 +270,4 @@ And as last point, here are a few red Flags that we watch out For:
 
 Hope this helps you improve your business plan and get your startup to a success.
 
-**Send us your deck/business plan, when you are ready: deck@atwucapital.com**
+**Send us your deck/business plan, when you are ready: [deck@atwucapital.com](mailto:deck@atwucapital.com)**

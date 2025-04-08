@@ -34,9 +34,115 @@ body{
 .secondary-button{
   background-color: #071112;
   border: 1px solid #d1bfae;
+  color:#d1bfae;
   transition: all .4s;
   box-shadow: -3px 3px 0px #d1bfae;
 }
 .secondary-button:hover{
   box-shadow: -1px 1px 0px #d1bfae;
+}
+
+
+.primary-button{
+  background-color: #d1bfae;
+  border: 1px solid #071112;
+  color:#071112;
+  transition: all .4s;
+  box-shadow: -3px 3px 0px #071112;
+}
+.primary-button:hover{
+  box-shadow: -1px 1px 0px #071112;
+}
+
+
+.guideContent{
+  opacity: 0.85;
+
+}
+
+.guideContent h1{
+  opacity: 1;
+  font-size: 2.5rem;
+  font-weight: 700;
+  line-height: 1;
+  margin-bottom: 1rem;
+  margin-top: 2rem;
+  font-family: 'Playfair Display', serif;
+}
+.guideContent h2{
+  opacity: 1;
+  font-size: 2rem;
+  line-height: 1;
+  font-weight: 700;
+  margin-bottom: 1rem;
+  margin-top: 2rem;
+  font-family: 'Playfair Display', serif;
+}
+.guideContent h3{
+  opacity: 1;
+  font-size: 1.5rem;
+  line-height: 1;
+  font-weight: 700;
+  margin-bottom: 1rem;
+  margin-top: 2rem;
+  font-family: 'Playfair Display', serif;
+}
+.guideContent h4{
+  opacity: 1;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 1;
+  margin-bottom: 1rem;
+  margin-top: 2rem;
+  font-family: 'Playfair Display', serif;
+}
+
+.guideContent p{
+  font-size: 1.2rem;
+  line-height: 1.5;
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.guideContent ul{
+  list-style: disc;
+  padding-left: 2rem;
+}
+.guideContent ol{
+  list-style: decimal;
+  padding-left: 2rem;
+}
+
+.guideContent ul li,.guideContent ol li{
+  font-size: 1.2rem;
+  line-height: 1.5;
+}
+
+.guideContent b, .guideContent strong{
+  font-weight: 700;
+  opacity: 1;
+}
+
+.guideContent i{
+  font-style: italic;
+}
+
+
+.guideContent blockquote{
+  font-style: italic;
+  padding-left: 1em;
+  color:#d1bfae;
+  border-left: 3px solid #d1bfae;
+}
+
+
+.guideContent a{
+  color: #d1bfae;
+  text-decoration: underline;
+}
+
+.guideContent hr{
+  border: 1px solid #d1bfae;
+  margin: 2rem 0;
+
 }
