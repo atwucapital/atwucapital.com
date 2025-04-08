@@ -3,13 +3,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link href="css/reset.css" rel="stylesheet">
-    <link href="css/style.css" rel="stylesheet">
+    <link href="/css/reset.css" rel="stylesheet">
+    <link href="/css/style.css" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;700&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Handlee&display=swap" rel="stylesheet">
     <script src="https://cdn.tailwindcss.com"></script>
-    <link rel="icon" type="image/png" href="img/favicon.png">
+    <link rel="icon" type="image/png" href="/img/favicon.png">
 
 
 
@@ -33,19 +33,26 @@
 <body class="text-gray-800">
     <section class="bg-dark-green color-white min-h-screen flex flex-col justify-between">
         <div class="bg-dark-green text-center pt-6">
-            <a href="/"><img src="img/logo/atwu_capital_logo_beige.png" class="h-7 inline align-middle"><span class=" align-middle text-xl color-beige font-bold text-serif"> ATWU Capital</span></a>
+            <a href="/"><img src="/img/logo/atwu_capital_logo_beige.png" class="h-7 inline align-middle"><span class=" align-middle text-xl color-beige font-bold text-serif"> ATWU Capital</span></a>
         </div>
 
         <div class="container m-auto px-4 text-center max-w-lg">
             <h2 class="text-5xl font-bold mb-4 text-serif">We invest in people</h2>
             <p class="text-2xl mb-8">Angle checks <b class="font-bold">up to 5,000€</b> for early-stage <b class="font-bold">tech founders</b> in <b class="font-bold">europe</b>.</p>
-            <a href="mailto:deck@atwucapital.com?subject=Pitch Deck" class="secondary-button px-6 py-4 block rounded-lg color-beige">Send your pitch deck</a><br>
+            <a href="mailto:deck@atwucapital.com?subject=Pitch Deck" class="secondary-button px-6 py-4 block rounded-lg">Send your pitch deck</a><br>
             <p class="text-sm">We check all decks and respond in <b class="font-bold">less than 24 hours</b></p>
         </div>
     </section>
 
 
-    <section class="py-24 flex">
+    <section class="py-24 ">
+
+        <div class="container mx-auto text-center max-w-lg">
+            <h2 class="text-5xl font-bold my-12 text-serif">Guides for founders</h2>
+
+            <a href="/guides/minimal-startup-business-model.html" class="primary-button px-6 py-4 block rounded-lg"><b>Minimal Requirements for a Startup Business Model</b><br><small>Guide on the parts your business model and considerations must contain, in order to be investable.</small></a><br>
+
+        </div>
         <div class="container mx-auto text-center max-w-lg">
             <h2 class="text-5xl font-bold my-12 text-serif">Updates</h2>
             <p class="text-2xl mb-2 text-serif">Mar 2025</p>
@@ -71,17 +78,18 @@
 
     </section>
 
-    <footer class="bg-dark-green  color-white">
+
+    <footer class="bg-dark-green pt-20  color-beige">
 
         <div class="container mx-auto px-4 text-center">
             <p>&copy; <span id="currentYear"></span> ATWU Capital GmbH. All rights reserved. | <a href="/imprint.html">Imprint</a></p>
-            <p>Investing from Munich, Germany into Founders all over europe</p>
+            <p>Investing from Munich into Founders all over europe</p>
 
             <script>
                 document.getElementById('currentYear').textContent = new Date().getFullYear();
             </script>
         </div>
-        <img src="img/munich_skyline.svg" class="w-full opacity-100" alt="Munich Skyline">
+        <img src="/img/munich_skyline.svg" class="w-full opacity-100" alt="Munich Skyline">
 
     </footer>
     <script defer="" data-domain="atwucapital.com" src="https://single.uber.space/js/script.js"></script>
